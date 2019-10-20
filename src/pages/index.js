@@ -46,7 +46,7 @@ const IndexPage = () => (
         </svg>
       <div class="flex-row">
         <div class="flex-small link">
-          <Link fade to="/experience" class="white first">Experience</Link>
+          <Link to="/experience/" class="white first">Experience</Link>
         </div>
         <div class="flex-small link">
           <a href="/ezapanta.pdf" class="white second">Resume</a>
