@@ -49,7 +49,7 @@ const IndexPage = () => (
           <Link to="/experience/" class="white first">Experience</Link>
         </div>
         <div class="flex-small link">
-          <a href="/ezapanta.pdf" class="whitenpm install gh-pages --save-dev second">Resume</a>
+          <a href="/ezapanta.pdf" class="white second">Resume</a>
         </div>
       </div>
       <h5 class="text-center current">Jr. Software Engineer @ DigitalMint</h5>
