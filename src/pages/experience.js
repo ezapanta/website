@@ -31,8 +31,7 @@ const Experience = () => (
         </div>
         <div class="flex-row">
           <div class="flex-large">
-            Launched Bravo, a management platform for cryptocurrency exchanges. I mainly develop frontend features written with React.
-            Occassionally, I peek into the backend as an opportunity to learn Go.
+            Launching Bravo, a management platform for cryptocurrency exchanges. I mainly develop frontend features written with React.
           </div>
         </div>
       </div>
@@ -45,7 +44,7 @@ const Experience = () => (
         </div>
         <div class="flex-row">
           <div class="flex-large">
-            A management tool beverages programs at bars and restaurants.
+            A management tool for beverage programs at bars and restaurants.
             After launch, I continued to maintain the mobile application in addition to its Vue web application,
             and the backend which consists of a Node/Express API and MySQL database. Visit the {' '}
               <a href="https://www.getbackbar.com/">
@@ -64,7 +63,7 @@ const Experience = () => (
         </div>
         <div class="flex-row">
           <div class="flex-large">
-            Developed React Native management tool beverages programs at bars and restaurants. Features include real-time inventory counting,
+            Developed React Native app for beverage programs at bars and restaurants. Features include real-time inventory counting,
             menu information updates, and more! Download Backbar (for free!) on the {' '}
               <span>
                 <a href="https://apps.apple.com/us/app/backbar/id1461796151">
