@@ -35,7 +35,7 @@ const IndexPage = () => (
         </div>
       </div>
       <h5 className="text-center current">
-        Jr. Software Engineer @ DigitalMint
+        Software Engineer @ DigitalMint
       </h5>
     </div>
   </div>

@@ -7,7 +7,7 @@ const Experience = () => (
     <div className="medium-container margin-bottom first">
       <div className="flex-row">
         <strong className="flex-large no-margin-bottom">
-          Jr. Software Engineer @ DigitalMint
+          Software Engineer @ DigitalMint
         </strong>
       </div>
       <div className="flex-row">
