@@ -1,15 +1,14 @@
 import React from "react";
 import { Link } from "gatsby";
 
-import Layout from "../components/layout";
 // import Image from "../components/image"
 // import SEO from "../components/seo"
 import Name from "../../public/icons/Name";
 import "../scss/main.scss";
 
 const IndexPage = () => (
-  <div class="vertical-center">
-    <div class="container dead-center">
+  <div className="vertical-center">
+    <div className="container dead-center">
       <svg
         width="671.5"
         height="90"
@@ -26,22 +25,22 @@ const IndexPage = () => (
           fill="none"
           styles="stroke:#FFF;stroke-width:0.25mm;fill:none"
         >
-          <path class="name" d={Name} vector-effect="non-scaling-stroke" />
+          <path className="name" d={Name} vector-effect="non-scaling-stroke" />
         </g>
       </svg>
-      <div class="flex-row">
-        <div class="flex-small link">
-          <Link to="/experience/" class="white first">
+      <div className="flex-row">
+        <div className="flex-small link">
+          <Link to="/experience/" className="white first">
             Experience
           </Link>
         </div>
-        <div class="flex-small link">
-          <a href="/ezapanta.pdf" class="white second">
+        <div className="flex-small link">
+          <a href="/ezapanta.pdf" className="white second">
             Resume
           </a>
         </div>
       </div>
-      <h5 class="text-center current">Jr. Software Engineer @ DigitalMint</h5>
+      <h5 className="text-center current">Software Engineer @ DigitalMint</h5>
     </div>
   </div>
 );
