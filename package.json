@@ -24,6 +24,8 @@
     "watch": "^1.0.2"
   },
   "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-react": "^7.31.8",
     "gh-pages": "^2.1.1",
     "prettier": "^1.18.2"
   },
